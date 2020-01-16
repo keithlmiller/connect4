@@ -62,6 +62,14 @@
   content: "×";
 }
 
+.Reset-Btn {
+  margin: 10px;
+  padding: 4px;
+  background: blue;
+  color: #fff;
+  border-radius: 3px;
+}
+
 @keyframes animated {
   50% {
     transform: rotateY(180deg);
